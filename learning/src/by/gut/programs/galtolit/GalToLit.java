@@ -1,4 +1,4 @@
-package by.gut.programs;
+package by.gut.programs.galtolit;
 
 class GalToLit {
     public static void main(String[] args) {
