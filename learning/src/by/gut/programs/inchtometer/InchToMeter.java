@@ -1,4 +1,4 @@
-package by.gut.programs;
+package by.gut.programs.inchtometer;
 
 class InchToMeter {
     public static void main(String[] args) {

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad217c8f-b85b-44ec-983e-6fb14d9db9e1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../src/by/gut/programs/primenumber/PrimeNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../learning2/src/by/gut/programs/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/JAX_WS_Glassfish___JAX_WS_2_2_RI___Metro_1_X___JWSDP_2_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../learning.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/FastInoset.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/learning/lib/FastInoset.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/gmbal-api-only.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/learning/lib/gmbal-api-only.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/ha-api.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/learning/lib/ha-api.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/javax.annotation.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/learning/lib/javax.annotation.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/jaxb-api.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/learning/lib/jaxb-api.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/jaxb-impl.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/learning/lib/jaxb-impl.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/jaxb-xjc.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/learning/lib/jaxb-xjc.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/jaxws-api.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/learning/lib/jaxws-api.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/jaxws-rt.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/learning/lib/jaxws-rt.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/jaxws-tools.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/learning/lib/jaxws-tools.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/jsr181-api.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/learning/lib/jsr181-api.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/mail.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/learning/lib/mail.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/management-api.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/learning/lib/management-api.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/mimepull.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/learning/lib/mimepull.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/policy.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/learning/lib/policy.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/saaj-api.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/learning/lib/saaj-api.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/saaj-impl.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/learning/lib/saaj-impl.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/stax-ex.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/learning/lib/stax-ex.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/stax2-api.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/learning/lib/stax2-api.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/streambuffer.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/learning/lib/streambuffer.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/woodstox-core-asl.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/learning/lib/woodstox-core-asl.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/by/gut/programs/InchToMeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../src/by/gut/programs/inchtometer/InchToMeter.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1eKauUFg5SlKmGkUb7WYeGOOe4P" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad217c8f-b85b-44ec-983e-6fb14d9db9e1" name="Default Changelist" comment="" />
+      <created>1594072960681</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594072960681</updated>
+      <workItem from="1594072964667" duration="109000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="1474" key="FileChooserDialogImpl" timestamp="1594073042459">
+      <screen x="0" y="1200" width="1920" height="1040" />
+    </state>
+    <state x="740" y="1474" key="FileChooserDialogImpl/1920.743.1600.860/0.1200.1920.1040/0.0.1920.1160@0.1200.1920.1040" timestamp="1594073042459" />
+    <state x="625" y="1424" key="NewModule_or_Project.wizard" timestamp="1594073072087">
+      <screen x="0" y="1200" width="1920" height="1040" />
+    </state>
+    <state x="625" y="1424" key="NewModule_or_Project.wizard/1920.743.1600.860/0.1200.1920.1040/0.0.1920.1160@0.1200.1920.1040" timestamp="1594073072087" />
+  </component>
+</project>
